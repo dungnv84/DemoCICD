@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wyYg0PW+4aePcUF3lmroc21Lo9S3BhVOCzAzTGCl85JCdFg7CBR96w/O1IKQ31Nx/jktfybD9YfPBYYq871u+w==",
+  "success": true,
+  "projectFilePath": "C:\\build jenkins\\WebApplication2\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thuytt\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.30\\microsoft.netcore.app.runtime.win-x64.3.1.30.nupkg.sha512",
+    "C:\\Users\\thuytt\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.30\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.30.nupkg.sha512",
+    "C:\\Users\\thuytt\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.30\\microsoft.aspnetcore.app.runtime.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}
